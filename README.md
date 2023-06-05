@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm KENNEDY OTIENO</h1>
 <h3 align="center">I am a passionate self-taught Mobile Engineer from Kenya.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennotieno&label=Profile%20views&color=0e75b6&style=flat" alt="kennotieno" /> </p>
 
@@ -23,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennotieno&show_icons=true&locale=en&layout=compact" alt="kennotieno" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennotieno&show_icons=true&locale=en" alt="kennotieno" /></p>
-
