@@ -1,9 +1,8 @@
 Hey, I'm Ken👋
 Software QA Engineer / SDET focused mainly on Automation Testing. I design and automate tests that ensure the reliability, performance, and quality of software across web and mobile platforms.
 
-Most of my time goes into backend work, but I’m also diving into DevOps practices thinking about deployment, automation, and how software runs in production. I value clarity, maintainability, and solving real world problems.
+When I'm not automating tests, you'll probably find me gaming or checking out something new in tech for fun.
 
-When I’m not automating tests, you’ll probably find me gaming or checking out something new in tech for fun.
 ---
 
 ### 🛠 Tech Stack
