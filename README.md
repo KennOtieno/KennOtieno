@@ -1,25 +1,18 @@
-Hey, I'm Kennedy Otieno👋
-Software Engineer focused on Backend, learning my way into DevOps. I build systems that aim to be reliable, scalable, and efficient balancing application logic with infrastructure know how.
+Hey, I'm Ken👋
+Software QA Engineer / SDET focused mainly on Automation Testing. I design and automate tests that ensure the reliability, performance, and quality of software across web and mobile platforms.
 
 Most of my time goes into backend work, but I’m also diving into DevOps practices thinking about deployment, automation, and how software runs in production. I value clarity, maintainability, and solving real world problems.
 
-When I’m not coding, I’m exploring new stacks, tinkering with infra, or testing side projects for fun.
-
+When I’m not automating tests, you’ll probably find me gaming or checking out something new in tech for fun.
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend**
-Vue · Nuxt · Flutter · HTML/CSS
-
-**Backend**
-Laravel · Django · Node.js  · REST  · Gin
-
-**Infrastructure**
-Linux · AWS · Docker · CI/CD · Systems Programming
+**Automation & Testing**
+Playwright · Cypress · Postman  · CI/CD Testing
 
 **Languages**
-Go · Python · PHP · Go  · JavaScript  · SQL (MySQL/PostgreSQL)
+TypeScript · Python · SQL
 
 ---
 
