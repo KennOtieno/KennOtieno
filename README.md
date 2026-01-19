@@ -19,7 +19,7 @@ TypeScript · Python · SQL
 
 * [Chunga Cash App](https://github.com/KennOtieno/chunga-app) — Digital wallet for students & admins to manage school pocket money securely.
 * [Password Generator CLI](https://github.com/KennOtieno/password_generator_cli) - A command line application in Go that generates secure passwords with customizable length and complexity.
-* [Jadoo](https://github.com/KennOtieno/jadoo) — Travel agency landing page built with Nuxt.js & TailwindCSS.
+* [JSON Placeholder API Test](https://github.com/KennOtieno/playwright-jsonplaceholder-api-tests) — A REST API validation project ensuring core endpoints return reliable and well-structured data.
 
 👉 More here: [My Repositories](https://github.com/KennOtieno)
 
