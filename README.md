@@ -28,5 +28,5 @@ TypeScript · Python · SQL
 ### 📬 Reach me at
 
 * [LinkedIn](https://www.linkedin.com/in/kennedy-otieno)
-* [Twitter](https://x.com/kjotieno)
+* [X](https://x.com/kjotieno)
 * [Blog](https://hashnode.com/@KenOtieno)
