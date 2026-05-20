@@ -1,7 +1,6 @@
 Hey, I'm Ken👋
 Software QA Engineer focused mainly on Automation Testing. I build and maintain automated tests that ensure software is reliable, high quality and behaves as expected across web and mobile platforms.
 
-When I'm not automating tests, you'll probably find me gaming or exploring something new in tech for fun.
 
 ---
 
